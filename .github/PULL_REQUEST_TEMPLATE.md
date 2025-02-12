@@ -2,7 +2,7 @@
 
 ## READ BEFORE OPENING A PR
 
-Thank you for contributing to hugo-PaperMod!
+Thank you for contributing to PaperMod!
 Please fill out the following questions to make it easier for us to review your
 changes. You do not need to check all the boxes below.
 
